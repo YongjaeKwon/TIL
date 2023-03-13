@@ -1,17 +1,31 @@
-# TIL 
+<details>
+<summary><b>요구사항 명세서</b></summary>
+<div markdown="1">
 
----
-
-### Ground Rule
-
-1. 어뷰징 하지 않는다 
-   - 솔직하게 작성한다
-2. 지각하지 않는다
-3. 과제 빼먹지 않는다.
-
----
-
-  ### 오늘의 강의노트
-  - [notion]{https://www.notion.so/2022-7-14-6d938c64c0e9464fa99548b5ec58005b}
+요구사항 명세서
+<br/>
+</details>
 
 
+<details>
+<summary><b>Figma</b></summary>
+<div markdown="1">
+
+<br/>
+
+### Main Page
+
+<img src="img/Main_Page_1.png"/>
+
+<img src="img/Main_Page_2.png"/>
+
+<img src="img/Main_Page_3.png"/>
+
+<img src="img/Main_Page_4.png"/>
+
+### Colors
+
+<img src="img/Colors.png"/>
+ 
+</div>
+</details>
